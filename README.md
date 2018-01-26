@@ -29,7 +29,7 @@ php ­f bin/magento setup:upgrade
 
 Step 6: After opening Stores­ >>Configuration >­>Advanced >­> Advanced, the module will be shown in the admin panel
 
-## 3. What make people fall in love with LOF marketplace extensions
+## 3. What make people fall in love with this extensions
 
 ### Image Parallax Scrolling
 Parallax scrolling help you to create illusion of depth by moving images at different speeds.
