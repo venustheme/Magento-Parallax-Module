@@ -7,7 +7,7 @@ Ves parallax comes with trendy effect, that can be seen on almost every website 
 
 - Installation guide: https://blog.landofcoder.com/magento-2-install-extension/
 - Download from our Live site: http://www.venustheme.com/theme/ves-parallax/
-- Get Support: https://landofcoder.ticksy.com/
+- Get Support: https://venustheme.ticksy.com/
 
 ## 2. How to install Extension
 
@@ -47,7 +47,7 @@ Able to Show in various position such as slideshow or massbottom, content bottom
 To create magento parallax scrolling background, all you need is to upload an image, configure the module, and congrats, you completed it
 
 
-## LandOfCoder extensions on Magento Marketplace, Github
+## LandOfCoder & Venustheme extensions on Magento Marketplace, Github
 
 - [Magento 2 Multivendor Marketplace](https://landofcoder.com/magento-2-marketplace-extension.html/)
 - [Magento 2 Blog Extension](https://landofcoder.com/magento-2-blog-extension.html/)
