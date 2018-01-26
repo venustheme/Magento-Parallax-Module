@@ -1,0 +1,2 @@
+# magento-parallax-module
+#VES PARALLAX  Magento Parallax Module will let you build a wonderful parallax theme for your website. Also, adding your own parallax image to your store help you attract more customers into buying your items  Ves parallax comes with trendy effect, that can be seen on almost every website in nowadays. All you need is to upload an image, configure the module, and that’s all!
